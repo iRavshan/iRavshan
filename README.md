@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 <!--
-**iRavshan/iRavshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,8 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![iRavshan's github stats](https://github-readme-stats.vercel.app/api?username=iRavshan)
-![iRavshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=iRavshan&show_icons=true)
+![iRavshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=iRavshan&show_icons=true&theme=radical)
 [![iRavshan](https://github-readme-stats.vercel.app/api/pin/?username=iRavshan&repo=Procode)](https://github.com/iRavshan/Procode)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iRavshan)](https://github.com/iRavshan/github-readme-stats)
 
