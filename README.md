@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-<!--
+https://picsart.com/i/318400193288211?amp=1
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -11,8 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 ![iRavshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=iRavshan&show_icons=true&theme=radical)
-[![iRavshan](https://github-readme-stats.vercel.app/api/pin/?username=iRavshan&repo=Procode)](https://github.com/iRavshan/Procode)
+[![iRavshan](https://github-readme-stats.vercel.app/api/pin/?username=iRavshan&repo=Procode)](https://github.com/iRavshan/Procode&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iRavshan)](https://github.com/iRavshan/github-readme-stats)
 
