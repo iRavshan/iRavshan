@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://picsart.com/i/318400193288211?amp=1
+<img src="https://picsart.com/i/318400193288211?amp=1"/>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
