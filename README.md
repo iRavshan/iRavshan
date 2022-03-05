@@ -42,7 +42,8 @@
         <br>
         -->
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=iRavshan&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
-        ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Ahmad-shaikh575&theme=gruvbox&hide_border=true&area=true)
+        <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+        <img src="https://github-profile-trophy.vercel.app/?username=iRavshan&theme=gruvbox" />
         <br>
         <br>
     </div>
