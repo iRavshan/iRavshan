@@ -53,6 +53,6 @@
 
 ------
 
-Credit: [Ahmed Fathy](https://github.com/iRavshan)
+Credit: [iRavshan](https://github.com/iRavshan)
 
 Last edited on: 31/01/2022
