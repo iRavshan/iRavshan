@@ -43,7 +43,7 @@
         -->
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=iRavshan&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
         <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-        <img src="https://github-profile-trophy.vercel.app/?username=iRavshan&theme=algolia" />
+        <img src="https://github-profile-trophy.vercel.app/?username=iRavshan&theme=matrix" />
         <br>
         <br>
     </div>
