@@ -41,7 +41,7 @@
         <br>
     </div>
     <div align=center>
-        <img src="https://p.favim.com/orig/2019/01/21/edit-texture-overlay-Favim.com-6836874.gif" alt="GitHub Octocat Logo" height="100" width="100%">
+        <img src="https://p.favim.com/orig/2019/01/21/edit-texture-overlay-Favim.com-6836874.gif" alt="GitHub Octocat Logo" height="100">
         <p>Loading</p>
     </div>
 </div>
