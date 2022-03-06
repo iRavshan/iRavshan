@@ -33,11 +33,12 @@
     </div>
     <div align=center>
         <h1>Contribution Activity</h1>
-    <div align="center">
         | ![iRavshan's github stats](https://github-readme-stats.vercel.app/api?username=iRavshan&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark")
         | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iRavshan&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44) |
 | --- | --- |
-    </div>
+        [![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=tokyonight)](https://git.io/praveenscience) | ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak stats.herokuapp.com/?user=Aditya664&theme=tokyonight) | | --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
         <h1 align="center">Git profile Trophies</h1><br>
         <img src="https://github-profile-trophy.vercel.app/?username=iRavshan&theme=matrix" />
         <br>
