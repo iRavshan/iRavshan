@@ -41,7 +41,7 @@
         <br>
     </div>
     <div align=center>
-        <img src="https://cdn.commaful.com/media/public/images/ead73399-92ad-5172-ed3f-aa04bfdac6d1-1608069382912.gif" alt="GitHub Octocat Logo" height="100">
+        <img src="https://i.imgur.com/LCupAzQ.gif" alt="GitHub Octocat Logo" height="100">
         <p>Loading</p>
     </div>
 </div>
