@@ -41,7 +41,7 @@
         <br>
     </div>
     <div align=center>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommaful.com%2Fplay%2Fsenpaii%2Fit-hurts-when-they-say-goodbye%2F&psig=AOvVaw2dGZrrpTf5jBNTDtLFV24z&ust=1646664494050000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCZk7XdsfYCFQAAAAAdAAAAABA_" alt="GitHub Octocat Logo" height="100">
         <p>Loading</p>
     </div>
 </div>
